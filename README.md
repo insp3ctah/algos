@@ -1,2 +1,1 @@
-# algos
- base algo tasks coded by me
+tasks based standart algorithms and data structures
